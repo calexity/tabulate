@@ -19,11 +19,13 @@ Press the play button to run
 About 5, I think 3 of those were spent trying to get the keyboard to move the content up.
 
 ## Which required and optional stories have you completed?
+
 *Required*
 - Calculator is functional
 - Added 18%, 20% and 22% as options
 - When tapping into bill amount field, keyboard appears
 - When tapping outside keyboard, keyboard dismisses
+
 *Optional*
 - All fields move up when bill amount is tap so the field stays in view
 - Status bar is removed
