@@ -26,8 +26,6 @@ About 5, I think 3 of those were spent trying to get the keyboard to move the co
 - When tapping into bill amount field, keyboard appears
 - When tapping outside keyboard, keyboard dismisses
 
-<br />
-
 ### Optional
 - All fields move up when bill amount is tap so the field stays in view
 - Status bar is removed
