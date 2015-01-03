@@ -34,4 +34,4 @@ About 5, I think 3 of those were spent trying to get the keyboard to move the co
 
 
 ## GIF walkthrough
-<img style="max-width:100%;"  src="https://raw.githubusercontent.com/calexity/tabulate/master/TabulateWalkthrough.gif"></img>
+[Imgur](http://i.imgur.com/bJx4APM.gif?1)
