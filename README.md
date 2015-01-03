@@ -34,4 +34,5 @@ About 5, I think 3 of those were spent trying to get the keyboard to move the co
 
 
 ## GIF walkthrough
-[Imgur](http://i.imgur.com/bJx4APM.gif?1)
+![Tabulate Walkthrough](
+http://i.imgur.com/bJx4APM.gif?)
