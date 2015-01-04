@@ -1,10 +1,10 @@
 ## Tabulate
 
-This is a simple tip calculator iOS app made as part of the prework for the [https://courses.codepath.com/snippets/ios_for_designers/thanks_for_applying](CodePath iOS for designers class).
+This is a simple tip calculator iOS app made as part of the prework for the [CodePath iOS for designers class](https://courses.codepath.com/snippets/ios_for_designers/thanks_for_applying).
 
 ## Installation instructions
 
-[https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12](Download Xcode from the Mac App Store, requires OS X 10.9.4+).
+[Download Xcode from the Mac App Store](https://itunes.apple.com/us/app/xcode/id497799835?ls=1&mt=12), requires OS X 10.9.4+
 
 Copy the repository
 <code>git clone git@github.com:calexity/tabulate.git
